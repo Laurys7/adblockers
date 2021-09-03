@@ -2,3 +2,4 @@
 tpc.googlesyndication.com/
 adclick.g.doubleclick.net
 tpc.googlesyndication.com
+doubleclick.net
